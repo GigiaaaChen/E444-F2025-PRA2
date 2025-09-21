@@ -13,7 +13,7 @@ This repo is a clone of [miguelgrinberg/flasky](https://github.com/miguelgrinber
 ## Activity 1.3
 
 **Chapter 3 Example**
-![Navigate bar Hello [your name] timestamp](screenshot/activity1.3.png)
+![Navigate bar Hello timestamp](screenshot/activity1.3.png)
 
 ## Activity 1.4
 
