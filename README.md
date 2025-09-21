@@ -14,7 +14,6 @@ This repo is a clone of [miguelgrinberg/flasky](https://github.com/miguelgrinber
 
 **Chapter 3 Example**
 ![Navigate bar Hello timestamp](screenshot/activity1.3.png)
-![Prompts 1](screenshot/activity1.3.png)
 
 ## Activity 1.4
 
